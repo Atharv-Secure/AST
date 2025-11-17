@@ -50,12 +50,12 @@ const Values = () => {
       title: "Integrity",
       description: "Maintaining highest ethical standards in all operations",
     },
-    {
-      id: 5,
-      icon: "🌱",
-      title: "Growth",
-      description: "Continuous learning and improvement of our capabilities",
-    },
+    // {
+    //   id: 5,
+    //   icon: "🌱",
+    //   title: "Growth",
+    //   description: "Continuous learning and improvement of our capabilities",
+    // },
   ];
 
   return (
