@@ -17,15 +17,15 @@ export const coFounders: CoFounder[] = [
   {
     id: 1,
     name: 'Dr. Manish Kumar',
-    role: 'CEO & Co-Founder',
-    specialization: 'Cybersecurity Architecture',
+    role: 'Co-Founder & Director',
+    specialization: 'Cybersecurity Architecture, Cryptography',
     experience: '15+ years',
-    bio: 'PhD in Computer Security with extensive experience in enterprise security solutions and threat intelligence.',
+    bio: 'Associate Professor, Department of Mathematics, BITS Pilani Hyderabad Campus',
     quote: 'Security is not just about technology; it\'s about understanding the threat landscape and staying ahead.',
     initials: 'MK',
     color: 'linear-gradient(135deg, #00d9ff, #0066ff)'
   },
-  {
+  /*{
     id: 2,
     name: 'Co-Founder 2',
     role: 'CTO & Co-Founder',
@@ -35,7 +35,7 @@ export const coFounders: CoFounder[] = [
     quote: 'Innovation in security means thinking beyond traditional boundaries and embracing emerging technologies.',
     initials: 'PM',
     color: 'linear-gradient(135deg, #7c3aed, #00d9ff)'
-  }
+  }*/
 ];
 
 export const teamMembers: TeamMember[] = [
@@ -69,46 +69,46 @@ export const teamMembers: TeamMember[] = [
     initials: 'RM',
     color: 'linear-gradient(135deg, #7c3aed, #0066ff)'
   },
-//   {
-//     id: 6,
-//     name: 'Anjali Verma',
-//     role: 'DevSecOps Engineer',
-//     specialization: 'CI/CD Security',
-//     experience: '6 years',
-//     quote: 'Security in every step of development.',
-//     initials: 'AV',
-//     color: 'linear-gradient(135deg, #00d9ff, #7c3aed)'
-//   },
-//   {
-//     id: 7,
-//     name: 'Arjun Kumar',
-//     role: 'IoT Security Specialist',
-//     specialization: 'Embedded Systems',
-//     experience: '7 years',
-//     quote: 'Securing the connected world, one device at a time.',
-//     initials: 'AK',
-//     color: 'linear-gradient(135deg, #0066ff, #7c3aed)'
-//   },
-//   {
-//     id: 8,
-//     name: 'Divya Nair',
-//     role: 'Product Manager',
-//     specialization: 'Security Solutions',
-//     experience: '6 years',
-//     quote: 'Creating security solutions users actually want to use.',
-//     initials: 'DN',
-//     color: 'linear-gradient(135deg, #7c3aed, #00d9ff)'
-//   },
-//   {
-//     id: 9,
-//     name: 'Rohan Sharma',
-//     role: 'Security Analyst',
-//     specialization: 'Threat Intelligence',
-//     experience: '5 years',
-//     quote: 'Data tells the story of every attack.',
-//     initials: 'RS',
-//     color: 'linear-gradient(135deg, #00d9ff, #0066ff)'
-//   },
+  {
+    id: 6,
+    name: 'Varun V',
+    role: 'Cybersecurity Intern',
+    specialization: 'MSc Economics',
+    experience: '6 years',
+    quote: 'Security in every step of development.',
+    initials: 'VV',
+    color: 'linear-gradient(135deg, #00d9ff, #7c3aed)'
+  },
+  {
+    id: 7,
+    name: 'Tushar Bhide',
+    role: 'IoT Security Intern',
+    specialization: 'MSc. Economics and B.E. Computer Science',
+    experience: '7 years',
+    quote: 'Securing the connected world, one device at a time.',
+    initials: 'AK',
+    color: 'linear-gradient(135deg, #0066ff, #7c3aed)'
+  },
+  {
+    id: 8,
+    name: 'Ishaan Singh',
+    role: 'Embedded Systems Intern',
+    specialization: 'MSc. Physics and B.E. Mathematics and Computing',
+    experience: '6 years',
+    quote: 'Creating security solutions users actually want to use.',
+    initials: 'DN',
+    color: 'linear-gradient(135deg, #7c3aed, #00d9ff)'
+  },
+  {
+    id: 9,
+    name: 'Havish Grandhi',
+    role: 'Security Analysis Intern',
+    specialization: 'MSc. Mathematics',
+    experience: '5 years',
+    quote: 'Data tells the story of every attack.',
+    initials: 'RS',
+    color: 'linear-gradient(135deg, #00d9ff, #0066ff)'
+   },
 //   {
 //     id: 10,
 //     name: 'Prerna Desai',
