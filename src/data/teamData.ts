@@ -29,7 +29,7 @@ export const coFounders: CoFounder[] = [
     id: 2,
     name: 'Mrs. Deepika Kesarwani',
     role: 'Director & Co-Founder',
-    specialization: 'IoT & Cloud Security',
+    specialization: 'M.Com in Commerce',
     experience: '12+ years',
     bio: 'Expert in IoT security and cloud infrastructure. Led security initiatives for Fortune 500 companies.',
     quote: 'Innovation in security means thinking beyond traditional boundaries and embracing emerging technologies.',
