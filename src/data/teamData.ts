@@ -25,17 +25,17 @@ export const coFounders: CoFounder[] = [
     initials: 'MK',
     color: 'linear-gradient(135deg, #00d9ff, #0066ff)'
   },
-  /*{
+  {
     id: 2,
-    name: 'Co-Founder 2',
-    role: 'CTO & Co-Founder',
+    name: 'Mrs. Deepika Kesarwani',
+    role: 'Director & Co-Founder',
     specialization: 'IoT & Cloud Security',
     experience: '12+ years',
     bio: 'Expert in IoT security and cloud infrastructure. Led security initiatives for Fortune 500 companies.',
     quote: 'Innovation in security means thinking beyond traditional boundaries and embracing emerging technologies.',
-    initials: 'PM',
+    initials: 'DK',
     color: 'linear-gradient(135deg, #7c3aed, #00d9ff)'
-  }*/
+  }
 ];
 
 export const teamMembers: TeamMember[] = [
